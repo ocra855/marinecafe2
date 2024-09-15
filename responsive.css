@@ -1,0 +1,166 @@
+@charset "utf-8";
+
+@media (max-width: 1024px){
+    /* タブレット用のCSS */
+    
+/* top */
+    .main-visual{
+        padding-top: 120px;
+        padding-bottom: 80px;
+    }
+    
+    .top-title{
+        font-size: 60px;
+    }
+    
+    .top-subtitle{
+        font-size: 25px;
+    }
+
+    .top-text{
+        font-size: 20px;
+    }
+    
+    .main h2{
+        font-size: 27px;
+    }
+    
+    .main h3{
+        font-size: 23px;
+    }
+    
+    .main p{
+        font-size: 21px;
+    }
+    
+ /* menu */
+   .menu h2{
+        font-size: 24px;
+    }
+    
+    .menu-card{
+        width: 50%;
+        
+    }
+    
+    .menu-title{
+        font-size: 20px;
+    }
+    
+    
+    .menu-text{
+        font-size: 15px;
+    }
+
+/* access */
+    .access{
+        height: 910px;
+    }
+    
+    .access-title{
+        margin-top: 16px;
+    }
+     
+    .access-text{
+        font-size: 20px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+    
+    .google-map iframe{
+        width: 95%;
+        height: 450px;
+        border-radius: 10px;
+    }
+    
+/* contact */ 
+    .contact{
+        height: 910px; 
+    }
+    
+    .contact-title{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+    
+    .contact-form h3{
+        margin-top: 33px;
+        margin-bottom: 10px;
+    }
+    
+    .submit-button{
+        margin-top: 50px;
+        width: 75px;
+        margin-bottom: 15px;
+    }
+
+}
+
+
+
+@media (max-width: 670px){
+    /* スマホ用のCSS */
+
+ /* top */
+    .header-left{
+        display: none;
+    }
+    
+    .header-right{
+        float: none;
+        text-align: center;
+    }
+    
+    .header-right a{
+        font-size: 20px;
+    }
+    
+    .main{
+        padding: 60px 0;  
+    }
+    
+    .main-image{
+        width: 280px;
+    }
+        
+    .main p{
+        font-size: 20px;
+        }
+
+    
+ /* menu */
+    .menu-card{
+    width: 100%;   
+    }
+    
+
+    
+    
+    
+    
+ /* access */
+    
+    
+    
+    
+    
+ /* contact */
+}
+
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

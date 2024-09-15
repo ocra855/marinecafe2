@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+.contact{
+    padding: 90px 0 60px;
+    color: #333333;
+    
+}
+
+
+
+.contact-title{
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+
+.contact-form h3{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    
+}
+
+input,textarea{
+    font-size: 15px;
+    width: 300px;
+    padding: 4px 4px;
+}
+
+
+.submit-button{
+    margin-top: 20px;
+    font-size: 20px;
+    width: 80px;
+    margin-bottom: 9px;
+}
+
+select{
+    font-size: 20px;
+    padding: 5px;
+    
+}
+
+
